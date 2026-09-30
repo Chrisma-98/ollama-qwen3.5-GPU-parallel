@@ -9,7 +9,6 @@ As of Oct. 1, 2026, ollama still has not resolved the GPU parallelization issue 
 The RTX 3080 modification applies to all 30 series, 40, and 50 series as well.
 
 # Compatibility
-该版本可于PC上已安装的ollama共存。并行版本可通过环境变量使用已经配置的模型目录。
 This version can coexist with existing ollama installed on the PC. The parallel version allows you to use configured model directories through environment variables.
 
 ## Google Drive
