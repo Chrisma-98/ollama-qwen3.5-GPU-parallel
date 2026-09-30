@@ -3,7 +3,7 @@ Ollama for QWEN3.5 series parallel GPU requests
 
 
 # Reason for modification
-As of Oct. 1, 2026, ollama still has not resolved the GPU parallelization issue in the QWEN3.5 series, so based on [ollama-v0.35.0](https://github.com/ollama/ollama), modifications have been made to the three RTX series devices.
+As of Oct. 1, 2026, ollama still has not resolved the GPU parallelization issue in the QWEN3.5 series, so based on [ollama-v0.35.0](https://github.com/ollama/ollama), modifications have been made to the three RTX series devices.The original ollama setting 【$env:OLLAMA_NUM_PARALLEL = "2"】 is useless
 
 # Scope of Application
 The RTX 3080 modification applies to all 30 series, 40, and 50 series as well.
