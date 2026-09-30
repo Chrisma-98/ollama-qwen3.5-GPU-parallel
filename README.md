@@ -13,5 +13,7 @@ This version can coexist with existing ollama installed on the PC. The parallel 
 
 ## Google Drive
 For 5080，[ollama-v0.35.0-qwen35-parallel-win-amd64-cuda12-sm120a.zip](https://drive.google.com/file/d/1zhFMoFzwV73r2shuLdTesSkzu0bjUKZQ/view?usp=drive_link)
+
 For 4090，[ollama-v0.35.0-qwen35-parallel-win-server2022-rtx4090.zip](https://drive.google.com/file/d/1v0gKUWdJJ0XpapFxfwDRMbd9P7q-lVv2/view?usp=drive_link)
+
 For 3080，[ollama-v0.35.0-qwen35-parallel-win-rtx3080-sm86.zip](https://drive.google.com/file/d/1i6LMhvhPmEGaxT1Qdsuv0pgHR_OA_KIu/view?usp=drive_link)
